@@ -29,7 +29,7 @@ As a software developer, my objective is to create and manage notes or code snip
 - When I register a service worker, my static assets should be pre-cached upon loading, including subsequent pages and static assets.
 
 ### Deployment
-- When I deploy to Heroku, I should have proper build scripts for a webpack application:
+- When I deploy to Heroku, I should have proper build scripts for a webpack application:https://fathomless-coast-62859-4d8464296632.herokuapp.com
 
 ## Getting Started
 
@@ -58,3 +58,5 @@ This project is licensed under the Apache 2.0 license.
 For any inquiries, please contact me at hsagal78@gmail.com
 
 ## Pictures
+
+![Screenshot](/asset/picture/PWA_textEditorOpenPage.png)
